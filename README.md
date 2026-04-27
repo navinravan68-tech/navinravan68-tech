@@ -49,7 +49,7 @@ I’m currently learning data science and building real-world projects to improv
 
 ## 🚀 Featured Project
 
-## 🚀 FitNear Interactive Prototype
+## FitNear Interactive Prototype
 
 <p align="center">
   <a href="https://ai.studio/apps/5d59a755-27b4-4826-a24a-352da9671f9f" target="_blank">
