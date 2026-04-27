@@ -77,8 +77,7 @@ A smart fitness platform that helps users:
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/navinravan68-tech  
-- LinkedIn: Add your LinkedIn here  
-
+ 
 ---
 
 ## ⚡ Philosophy
