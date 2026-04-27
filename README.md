@@ -1,3 +1,10 @@
+---
+<p align="center">
+  <img src="./coding.gif" width="400"/>
+</p>
+
+---
+
 <h1 align="center">Hi 👋, I'm Navin R</h1>
 
 <h3 align="center">Data Analyst Aspirant | Builder | Learning & Creating Real-World Projects 🚀</h3>
@@ -6,11 +13,6 @@
 I’m currently learning data science and building real-world projects to improve my skills and solve practical problems.
 </p>
 
----
-
-<p align="center">
-  <img src="./coding.gif" width="400"/>
-</p>
 ---
 
 ## 👨‍💻 About Me
