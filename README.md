@@ -8,11 +8,9 @@ I’m currently learning data analytics and building real-world projects to impr
 
 ---
 
-<!-- GIF SECTION -->
 <p align="center">
-  <img src="coding.gif" width="400"/>
+  <img src="./coding.gif" width="400"/>
 </p>
-
 ---
 
 ## 👨‍💻 About Me
