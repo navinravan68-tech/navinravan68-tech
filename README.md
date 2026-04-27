@@ -99,7 +99,7 @@ A smart fitness platform that helps users:
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/navinravan68-tech  
- 
+- Linkedin: https://www.linkedin.com/in/navin-ravichandran-15a259404
 ---
 
 ## ⚡ Philosophy
