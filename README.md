@@ -49,6 +49,17 @@ I’m currently learning data science and building real-world projects to improv
 
 ## 🚀 Featured Project
 
+## 🚀 FitNear Interactive Prototype
+
+<p align="center">
+  <a href="https://ai.studio/apps/5d59a755-27b4-4826-a24a-352da9671f9f" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Launch%20FitNear%20Prototype-00C853?style=for-the-badge&logo=google&logoColor=white"/>
+  </a>
+</p>
+
+👉 Built using Google AI Studio (Antigravity)
+
+---
 ### 🏋️ FitNear – Local Gym Finder App
 
 A smart fitness platform that helps users:
