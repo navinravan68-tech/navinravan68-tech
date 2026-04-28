@@ -48,6 +48,16 @@ I’m currently learning data science and building real-world projects to improv
 
 ## 🚀 Featured Project
 
+## 🛒 Walmart SQL Analysis Project
+- Designed a relational database using customers, products, orders, and order details
+- Performed data analysis using SQL joins and aggregations
+- Extracted business insights such as revenue and customer behavior
+
+**Key Insights:**
+- Total revenue calculation using SQL
+- Top-selling products analysis
+- Customer order behavior tracking
+
 ## FitNear Interactive Prototype
 
 <p align="center">
