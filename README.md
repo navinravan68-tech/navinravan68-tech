@@ -17,12 +17,11 @@ I’m currently learning data science and building real-world projects to improv
 
 ## 👨‍💻 About Me
 
-- 🎓 Postgraduate in Project Management  
-- 📊 Currently learning Data Analytics & Data Science  
-- 🧠 Practicing SQL, Python, Power BI, and Statistics  
-- 🏋️ Building **FitNear – Local Gym Finder App**  
-- 🚀 Focused on real-world project building  
-- 🎯 Goal: Become a skilled Data Analyst / Product Builder  
+- 🎓 Background in Construction Project Management  
+- 📊 Strong interest in Data Analytics and Business Intelligence  
+- 🧠 Skilled in SQL, data modeling, and analytical thinking  
+- 📈 Actively building projects to strengthen real-world problem solving  
+- 🎯 Goal: To become a professional Data Analyst / Data Engineer
 
 ---
 ## 🧠 Skills
@@ -61,28 +60,23 @@ I’m currently learning data science and building real-world projects to improv
 
 ---
 ### 🏋️ FitNear – Local Gym Finder App
-
-A smart fitness platform that helps users:
-
-- 📍 Find nearby gyms easily  
-- 💰 Compare subscription plans  
-- 🏋️ View trainers & facilities  
-- 🔴🟢 Live crowd indicator  
-- 📞 WhatsApp contact with gyms  
-- 🛒 Supplement marketplace  
-
+- Built an idea-based application to find nearby gyms
+- Focused on solving local discovery problems using location-based logic
+- Recognized in hackathon competition
 👉 Built to solve real problems in the Indian fitness market 🇮🇳  
 
 ---
 
-## 📈 What I'm Working On
+## 📊 Learning Focus
 
-- Improving my SQL problem-solving skills  
-- Building FitNear into a working prototype  
-- Learning how real-world data systems work  
-- Creating more portfolio projects  
+- Advanced SQL (window functions, CTEs)
+- Power BI dashboards
+- Python for data analysis
+- Real-world case study projects 
 
----
+## 📈 Career Goal
+
+To secure a role as a **Data Analyst** where I can apply data-driven decision-making, solve business problems, and contribute to organizational growth.
 
 ## 📊 GitHub Stats
 
@@ -104,7 +98,7 @@ A smart fitness platform that helps users:
 
 ## ⚡ Philosophy
 
-> Learn. Build. Improve. Repeat.
+⭐ *“Consistency in learning + real projects = career growth in data analytics”*
 
 ---
 
